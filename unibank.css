@@ -1,0 +1,304 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.container {
+    width: 100%;
+    margin: auto;
+}
+body {
+    background-color: black;
+}
+nav {
+    background-color: black;
+    height: 50px;
+}
+
+.Service {
+  display: inline;
+  position: relative;
+  right: 35px;
+  color: white;
+  margin-left: 40px;
+  opacity: .8;
+  font-size: 17px;
+}
+.icon1 {
+    display: inline;
+  color: white;
+  opacity: .8;
+  font-size: 17px;
+    position: relative;
+    top: 25px;
+    height: 70px;
+    width: 60px;
+    padding-top: 10px;
+}
+.display0 {
+    display: inline;
+}
+.display {
+    display: flex;
+    position: relative;
+    left: 150px;
+    display: inline;
+    border: 0.05cm;
+    text-align: center;
+    color: coral;
+    background-color: rgba(102, 101, 101, 0.377);
+    padding: 10px 20px;
+    border: 0.05cm;
+    border-style: solid;
+    border-color: coral;
+}
+.display1 {
+    display: flex;
+    position: relative;
+    left: 145px;
+    display: inline;
+    background-color: rgba(102, 101, 101, 0.377);
+    text-align: center;
+    color: white;
+    opacity: .8;
+    height: 20px;
+    padding: 10px;
+}
+.display2 {
+    position: relative;
+    top:12px;
+    left: 140px;
+    height: 40px;
+    width: 40px;
+    border: 0.15cm;
+    border-color: white;
+    border-radius: 15%;
+    background-color: white;
+    padding: 10px;
+}
+
+.display3 {
+    position: relative;
+    left: 135px;
+    height: 40px;
+    width: 40px;
+    padding: 10px 20px;
+    color: white;
+    background-color: rgba(102, 101, 101, 0.377) ;
+}
+.display4 {
+    position: relative;
+    left: 130px;
+    padding: 10px 20px;
+    color: white;
+    background-color: rgba(102, 101, 101, 0.377);
+}
+
+.icon2 {
+    position: relative;
+    height: 38px;
+    width: 40px;
+    left: 125px;
+    top: 14px;
+    background-color: rgba(102, 101, 101, 0.377) ;
+}
+
+.cards {
+    display: inline;
+    position: relative;
+    top: 90px;
+    color: white;
+    
+}
+.card {
+    position: relative;
+    font-size: 25px;
+    left: 15px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.leans {
+    position: relative;
+    font-size: 25px;
+    left:35px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.savings {
+    position: relative;
+    font-size: 25px;
+    left: 55px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Money {
+    position: relative;
+    font-size: 25px;
+    left: 80px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Online {
+    position: relative;
+    font-size: 25px;
+    left: 105px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.other {
+    position: relative;
+    font-size: 25px;
+    left: 130px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.phone {
+    position: relative;
+    
+    top: 7px ;
+    height: 30px;
+    width: 30px;
+    
+}
+.number {
+    display: inline;
+    position: relative;
+    
+    color: white;
+}
+.phone1 {
+    position: relative;
+    display: inline;
+    left: 500px;
+    border: 0.05cm;
+    border-color: white;
+    border-style: solid;
+    padding: 15px 10px;
+    border-radius: 40%;
+}
+.box1 {
+    position: relative;
+    top: 150px;
+    left: 80px;
+    display: flex;
+    height: 300px;
+    width: 350px;
+    border: 0.05cm;
+    border-radius: 5%;
+    background-color: rgba(128, 128, 128, 0.26);
+}
+.icon5 {
+    position: relative;
+    top: 20px;
+    left: 125px;
+    height: 100px;
+    width: 100px;
+    justify-content: center;
+}
+.onlineservice {
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    font-style:initial;
+}
+h3 {
+    color: white;
+    position: relative;
+    right: 50px;
+    top: 120px;
+    text-align: center;
+}
+
+.box2 {
+    position: relative;
+    bottom: 150px;
+    left: 480px;
+    display: flex;
+    height: 300px;
+    width: 350px;
+    border: 0.05cm;
+    border-radius: 5%;
+    background-color: rgba(128, 128, 128, 0.26);
+}
+
+.box3 {
+    position: relative;
+    bottom: 450px;
+    left: 880px;
+    display: flex;
+    height: 300px;
+    width: 350px;
+    border: 0.05cm;
+    border-radius: 5%;
+    background-color: rgba(128, 128, 128, 0.26);
+}
+.text1 {
+    color: white;
+    position: relative;
+    top: 120px;
+    text-align: center;
+}
+
+p{
+    font-size: 15px;
+    opacity: .7;
+}
+
+.box4 {
+    position: relative;
+    top: 450px;
+    left: 80px;
+    display: flex;
+    height: 300px;
+    width: 350px;
+    border: 0.05cm;
+    border-radius: 5%;
+    background-color: rgba(128, 128, 128, 0.26);   
+}
+.box5 {
+    position: relative;
+    top: 150px;
+    left: 480px;
+    display: flex;
+    height: 300px;
+    width: 350px;
+    border: 0.05cm;
+    border-radius: 5%;
+    background-color: rgba(128, 128, 128, 0.26);
+}
+.wheel {
+    background-color: rgb(241, 75, 14);
+    position: absolute;
+    top: 1000px ;
+    left: 0;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: rgb(241, 75, 14);
+    border: 0.05cm;
+}
+.message {
+    background-color: white;
+    position: absolute;
+    top: 1000px ;
+    right: 0;
+    height: 30px;
+    width: 30px;
+    border: 0.05cm;
+    border-style: solid;
+    border-radius: 50%;
+}
+
+.free {
+    position: absolute;
+    top: 1000px;
+    left: 300px;
+    height: 1px;
+    width: 800px;
+    background-color: gray;
+}
